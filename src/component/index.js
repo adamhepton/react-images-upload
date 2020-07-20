@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './index.css';
+// import './index.css';
 import FlipMove from 'react-flip-move';
 import UploadIcon from './UploadIcon.svg';
 
